@@ -1,0 +1,21 @@
+{
+    "name": "vaporic/test-hugo",
+    "description": "Prueba de programación - TelentProcess",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo Espinosa",
+            "email": "vaporic@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/http": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "TestHugo\\": "src/"
+        }
+    },
+    "require-dev": {}
+}
