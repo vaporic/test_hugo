@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <!--title>Programming Test | Hugo Espinosa</title-->
+        <title>Programming Test | Hugo Espinosa</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -23,7 +23,7 @@
         <div class="container">
             <div class="row padding-top">
                 <div class="col-sm-12">
-                    <!--h2 class="thin-text">Prueba de programación - Hugo Espinosa</h2-->
+                    <h2 class="thin-text">Prueba de programación - Hugo Espinosa</h2>
                 </div>
             </div>
             <div class="row padding-top">
